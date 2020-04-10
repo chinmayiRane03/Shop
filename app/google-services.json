@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68848712171",
+    "firebase_url": "https://eyantra-c411c.firebaseio.com",
+    "project_id": "eyantra-c411c",
+    "storage_bucket": "eyantra-c411c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68848712171:android:5d213f3133444e6e9b01ae",
+        "android_client_info": {
+          "package_name": "com.example.eyantra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68848712171-u39s0fm1ap6vcd4f3190qdenlgkc9bi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7Ahd4cTdbfmplqCbZegJ04TITU4p2OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68848712171-u39s0fm1ap6vcd4f3190qdenlgkc9bi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

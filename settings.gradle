@@ -1,0 +1,2 @@
+rootProject.name='Eyantra'
+include ':app'
