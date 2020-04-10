@@ -15,8 +15,8 @@
         android:layout_height="?attr/actionBarSize"
         app:queryHint="Search"
         android:padding="10dp"
-        android:layout_margin="5dp" />-->
-
+        android:layout_margin="5dp" />
+-->
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recycler"

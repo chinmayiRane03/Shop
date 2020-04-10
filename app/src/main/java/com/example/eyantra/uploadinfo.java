@@ -10,6 +10,16 @@ public class uploadinfo {
     public String shopAddress;
     public String shopLocality;
 
+    public String getKey() {
+        return key;
+    }
+
+    public void setKey(String key) {
+        this.key = key;
+    }
+
+    public String key;
+
 
 
     public uploadinfo() {
